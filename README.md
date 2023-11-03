@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">Fullstack web developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alxgb5&label=Profile%20views&color=0e75b6&style=flat" alt="alxgb5" /> </p>
 
 - 🏢 I’m currently working at [Fulll](https://www.fulll.fr)
 
