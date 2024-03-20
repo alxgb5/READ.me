@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">Fullstack web developper</h3>
 
+ 👋 I'm a fullstack web developer with a particular passion for front-end. I've accumulated 4 years of experience in a variety of environments, which has allowed me to immerse myself in various technologies and specialize in front-end development.
 
-- 🏢 I’m currently working at [Fulll](https://www.fulll.fr)
+I started my career at Nextalys, where I spent 2 years on a sandwich course, working as a fullstack developer with Angular and Nest.js. I then joined the E-Kip Méditerranée team for a year, where I continued to develop my skills as a fullstack developer, this time with React and Nest.js.
 
-- 📫 How to reach me **hey@alxgb.dev**
+Since October 2023, I've been delighted to be part of the front-end developer team at Fulll, where I focus fully on React, a technology I love.
+
+I recently completed my Master's degree in web development at the Ynov Campus in Aix-en-Provence, which enabled me to consolidate my knowledge and prepare myself for new challenges in web development.
+
+Alongside my studies, I also gained 3 years' experience as a freelancer. This experience enabled me to work on several projects, developing my versatility and ability to take on different challenges.
+
+Outside work, I have a real passion for technology. I'm constantly on the lookout for the latest trends and spend a lot of time monitoring new stacks that could be used on a large scale or in my personal projects. 
+
+📫 How to reach me **hey@alxgb.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
